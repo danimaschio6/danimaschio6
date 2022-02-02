@@ -1,7 +1,10 @@
  <h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">I´m a front end developer student from Argentina.</h3>
+<h3 align="center">I´m a front end developer student and freelancer from Argentina.</h3>
 
-- 🌱 I’m currently learning *JavaScript, ReactJS*
+
+- 🌱 I’m currently learning *JavaScript, ReactJS, HTML5, CSS, SASS, Git, Bootstrap*
+
+-👌 I´m interested in new challenges
 
 - 📫 How to reach me *danielamaschio6@gmail.com*
 
