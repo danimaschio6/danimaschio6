@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning *JavaScript, ReactJS, HTML5, CSS, SASS, Git, Bootstrap*
 
--👌 I´m interested in new challenges
+- 👌 I´m interested in new challenges
 
 - 📫 How to reach me *danielamaschio6@gmail.com*
 
