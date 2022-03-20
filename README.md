@@ -2,11 +2,7 @@
 <h3 align="center">I´m a front end developer student and freelancer from Argentina.</h3>
 
 
-- 🌱 I’m currently learning *JavaScript, ReactJS, HTML5, CSS, SASS, Git, Bootstrap*
 
-- 👌 I´m interested in new challenges
-
-- 📫 How to reach me *danielamaschio6@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
