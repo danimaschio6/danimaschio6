@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Dani</h1>
-<h3 align="center">I´m a front end developer student and freelancer from Argentina.</h3>
+
 
 
 
